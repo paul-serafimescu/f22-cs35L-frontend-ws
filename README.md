@@ -10,6 +10,7 @@ Demo of an example frontend for the final project. In this case, we have a basic
 
 ### How to Run
 ```bash
+npm install
 npm start
 ```
 
