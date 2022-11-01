@@ -1,0 +1,37 @@
+.text-input, .email-input {
+  margin-bottom: 15px;
+  height: 30px;
+  text-indent: 10px;
+  border: 1px solid #444;
+  border-radius: 5px;
+  display: block;
+}
+
+.checkbox-input, .radio-input {
+  margin-right: 0.75rem;
+}
+
+.comments {
+  margin-bottom: 15px;
+  border: 1px solid #444;
+  border-radius: 5px;
+  display: block;
+  font-family: inherit;
+}
+
+.selection-box {
+  width: fit-content;
+}
+
+.submit-button {
+  font-family: inherit;
+  border-radius: 8px;
+  padding: 5px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.submit-button:hover {
+  background-color: lightskyblue;
+  cursor: pointer;
+}
